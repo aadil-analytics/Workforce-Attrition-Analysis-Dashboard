@@ -15,6 +15,13 @@ and investigate potential retention issues.
 
 ------------------------------------------------------------------------
 
+## 🖼️ Dashboard Preview
+
+![Workforce Attrition
+Dashboard](dashboard/Workforce%20Attrition%20Dashboard.png)
+
+------------------------------------------------------------------------
+
 ## 🎯 Business Objectives
 
 The dashboard is designed to answer questions such as:
@@ -130,13 +137,6 @@ The Power BI dashboard contains:
 -   Attrition Rate by Gender
 -   Attrition Rate by City
 -   Attrition Rate by Education
-
-------------------------------------------------------------------------
-
-## 🖼️ Dashboard Preview
-
-![Workforce Attrition
-Dashboard](dashboard/Workforce%20Attrition%20Dashboard.png)
 
 ------------------------------------------------------------------------
 
